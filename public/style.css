@@ -37,7 +37,7 @@ h3 {
   margin: auto;
   font-size: 2.75vw;
 }
-input {
+textarea {
  align-content: center;
   justify-content: center;
   text-align: center;
@@ -45,6 +45,10 @@ input {
   font-size: 2.5vw;
   color: rgb(250, 250, 250);
   background-color: rgb(175,175,175);
+  height: 10vh;
+  width: 75vw;
+  word-break: break-all;
+  overflow-wrap: break-all;
 }
 main {
  align-content: center;
